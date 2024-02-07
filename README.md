@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Eduardo,  I'm a Software Developer at Desenvolve.
+I'm Eduardo, I'm Software Developer at Desenvolve.
 
-### Find me:
+### Find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardofrancaa/)](https://www.linkedin.com/in/eduardofrancaa/)
 
@@ -10,7 +10,7 @@ I'm Eduardo,  I'm a Software Developer at Desenvolve.
 
 These are some of the technologies and tools that I work with:
 
-### Backend: 
+### Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,6 +25,6 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Database:
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
