@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eduardo, I'm Software Developer at Desenvolve.
+My name is Eduardo and I am Software Developer.
 
 ### Find me
 
